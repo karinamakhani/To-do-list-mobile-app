@@ -7,6 +7,8 @@ Find the project requirements here: [To-do list mobile app](https://www.codement
 
 ## Tech/framework used
 Built with Swift
+To download on Mac: https://www.freecodecamp.org/news/how-to-download-and-install-xcode/
+If you have Windows you can't download XCode. You're on backend! There's another project for you.
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
