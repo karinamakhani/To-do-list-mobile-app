@@ -1,10 +1,6 @@
 # To-do-list-mobile-app
 Starter code for FoodReal Swift project
 
-# DevProjects - To-do list mobile app
-This is an open-source project from [DevProjects](http://www.codementor.io/projects). Feedback and questions are welcome!
-Find the project requirements here: [To-do list mobile app](https://www.codementor.io/projects/mobile/to-do-list-mobile-app-bdi10y26rf)
-
 ## Intructions
 The goal here is to just build a simple to-do app. It should have the following functionalities:
 - The user can add something to a list
@@ -20,7 +16,4 @@ To get started:
 - You will be prompted to save this file. For Product Name, type in whatever name your want to officially title your app, then click the blue Create button in the bottom right corner.
 - From the top menu, select Source Control then New Git Repositories. Click Create on the pop up.
 
-From here it would probably be easier to first create a static version of the application and then make it dynamic. I have more in-depth instructions (like basically a walk-through) if you want but it might be better if you attempt it independently first.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
+https://www.section.io/engineering-education/ios-tasks-app-using-swift/ for more in-depth instruction then I can write up, but try to figure it out on your own before just following their code.
